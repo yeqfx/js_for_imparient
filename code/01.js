@@ -9,4 +9,5 @@ console.log(10 / 0);
 console.log(-10 / 0);
 console.log(0 / 0);
 // 숫자를 반환하는 함수의 입력값에 오류가 있을 때 반환하는 값은?
-console.log(parseInt('1pie'));
+console.log(parseInt('1pie1'));
+console.log(parseFloat('pie1'));
