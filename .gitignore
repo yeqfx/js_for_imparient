@@ -105,3 +105,10 @@ dist
 
 # Remote Container
 .devcontainer/
+
+# eslint
+.eslintrc.js
+
+# npm package
+package-lock.json
+package.json
